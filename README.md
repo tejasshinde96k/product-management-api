@@ -1,6 +1,6 @@
 # product-management-api
 product-management-api/
-│
+<br>
 ├── src/main/java/com/example/productapi/
 │   ├── config/
 │   ├── controller/
